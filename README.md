@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YBDVitto
 - 👀 I’m interested in blockchain developing
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ethereum or a layer 2 or a new protocol
+- 💞️ I’m looking to work for the ethereum foundation or some others interesting projects
 - 📫 How to reach me vittobervr@gmail.com
 
 <!---
