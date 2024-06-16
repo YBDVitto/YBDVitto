@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YBDVitto
-- 👀 I’m interested in blockchain developing
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to work for the ethereum foundation or some others interesting projects
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning React
+- 💞️ I’m trying to get a job as frontend developer
 - 📫 How to reach me vittobervr@gmail.com
 
 <!---
