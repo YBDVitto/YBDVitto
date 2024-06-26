@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YBDVitto
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React
-- 💞️ I’m trying to get a job as frontend developer
+- 💞️ I’m trying to get a job as a frontend developer
 - 📫 How to reach me vittobervr@gmail.com
 
 <!---
